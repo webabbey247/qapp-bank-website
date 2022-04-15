@@ -53,11 +53,9 @@ const Footer = () => {
               <FooterHeading>Contact Us</FooterHeading>
               <FooterContactWrapper>
                 <FooterContactInfo>Call: (237) 681-812-255</FooterContactInfo>
+                <FooterContactInfo>Email: info@bankone.com</FooterContactInfo>
                 <FooterContactInfo>
-                  Email: info@bankone@gmail.com
-                </FooterContactInfo>
-                <FooterContactInfo>
-                  Address: 0123 Some place, Some country
+                  Address: 92 Raymond Njoku street, Ikoyi, Lagos, Nigeria 23401
                 </FooterContactInfo>
               </FooterContactWrapper>
             </FooterColumn>

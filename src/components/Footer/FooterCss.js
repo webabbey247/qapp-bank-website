@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FooterWrapper = styled.footer`
-  padding: 3rem 0 2rem;
+  padding: 2rem 0;
   background: var(--primary);
 `;
 
@@ -159,14 +159,13 @@ export const FooterSocialsWrapper = styled.div`
 `;
 
 export const FooterSocialIcon = styled.a`
-  padding: 4px 6px;
+  padding: 3px 6px;
   margin-right: 15px;
   color: var(--primary);
-  font-size: 14px;
+  font-size: 15px;
   background: var(--white);
   border: 1px solid var(--white);
   border-radius: 50%;
-  display: block;
 `;
 
 export const FooterSocialHandle = styled.p`

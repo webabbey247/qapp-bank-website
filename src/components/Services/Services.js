@@ -16,6 +16,7 @@ import {
 } from "./ServicesCss";
 
 import {openAccountImg, airtimeImg, quickLoanImg, utilityImg} from "assets";
+import {FaChevronRight} from "react-icons/fa";
 
 const Services = () => {
   return (
@@ -40,7 +41,9 @@ const Services = () => {
                   Need an account? Open an account for your business, your child
                   or yourself.
                 </ServicesDescText>
-                <ServicesDescCta>Click here to start</ServicesDescCta>
+                <ServicesDescCta>
+                  Click here to start <FaChevronRight />
+                </ServicesDescCta>
               </ServicesDesc>
             </ServicesColumn>
 
@@ -53,7 +56,9 @@ const Services = () => {
                 <ServicesDescText>
                   Free is the new cool. Zero transfer fees. Zero SMS charge.
                 </ServicesDescText>
-                <ServicesDescCta>Click here to start</ServicesDescCta>
+                <ServicesDescCta>
+                  Click here to start <FaChevronRight />
+                </ServicesDescCta>
               </ServicesDesc>
             </ServicesColumn>
 
@@ -67,7 +72,9 @@ const Services = () => {
                   Want a snap action? Get a QAPP mobile app for the fastest and
                   most.
                 </ServicesDescText>
-                <ServicesDescCta>Click here to start</ServicesDescCta>
+                <ServicesDescCta>
+                  Click here to start <FaChevronRight />
+                </ServicesDescCta>
               </ServicesDesc>
             </ServicesColumn>
 
@@ -81,7 +88,9 @@ const Services = () => {
                   Skip the queues and get all the answers you need right from
                   your phone.
                 </ServicesDescText>
-                <ServicesDescCta>Click here to start</ServicesDescCta>
+                <ServicesDescCta>
+                  Click here to start <FaChevronRight />
+                </ServicesDescCta>
               </ServicesDesc>
             </ServicesColumn>
           </ServicesRow>

@@ -18,7 +18,7 @@ export const HeroAuthContainer = styled.div`
 export const HeroAuthHeading = styled.h4`
   text-align: center;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 27px;
   color: var(--primary);
   font-family: var(--font-manrope);
@@ -29,7 +29,7 @@ export const HeroAuthLabelWrapper = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: row;
-  margin: 1.5rem 0;
+  margin: 1.3rem 0;
 `;
 
 export const HeroAuthLabel = styled.span`
@@ -38,11 +38,12 @@ export const HeroAuthLabel = styled.span`
   line-height: 22px;
   color: var(--orange);
   border-bottom: 2px solid var(--orange);
-  font-family: var(--font-manrope);
+  font-family: var(--font-sans);
 
   &:first-child {
     color: var(--primary);
     margin-right: 15px;
+    font-weight: 400;
     border: none;
   }
 `;
@@ -60,11 +61,11 @@ export const HeroAuthCta = styled.a`
   width: 100%;
   padding: 10px 20px;
   background: transparent;
-  font-weight: 700;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 15px;
   line-height: 22px;
   color: var(--primary);
-  font-family: var(--font-manrope);
+  font-family: var(--font-sans);
   cursor: pointer;
 
   &:first-child {

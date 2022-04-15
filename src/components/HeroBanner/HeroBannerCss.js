@@ -37,11 +37,11 @@ export const HeroBannerLTRText = styled.p`
   max-width: 400px;
   font-weight: 400;
   font-size: 20px;
-  line-height: 35px;
+  line-height: 30px;
   letter-spacing: -0.02em;
   color: #090c14;
   font-family: var(--font-manrope);
-  margin: 1.5rem 0;
+  padding: 2rem 0;
 `;
 
 export const HeroBannerDownloadAppWrapper = styled.div`
@@ -74,7 +74,7 @@ export const HeroBannerRTLImgHolder = styled.figure`
 `;
 
 export const HeroBannerRTLImg = styled.img`
-  height: 630px;
+  height: 640px;
   width: 100%;
 `;
 

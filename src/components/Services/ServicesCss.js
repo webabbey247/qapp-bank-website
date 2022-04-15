@@ -96,6 +96,12 @@ export const ServicesDescText = styled.p`
   font-family: var(--font-manrope);
 `;
 
+export const ServicesDescCtaWrapper = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+`;
+
 export const ServicesDescCta = styled.a`
   font-weight: 700;
   font-size: 16px;
@@ -103,4 +109,11 @@ export const ServicesDescCta = styled.a`
   letter-spacing: -0.02em;
   color: var(--orange);
   font-family: var(--font-manrope);
+`;
+
+export const ServicesDescCtaIcon = styled.svg`
+  font-size: 13px;
+  color: var(--orange);
+  margin-left: 10px;
+  margin-top: 5px;
 `;
