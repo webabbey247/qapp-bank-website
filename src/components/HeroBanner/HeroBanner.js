@@ -49,7 +49,7 @@ const HeroBanner = () => {
         </HeroBannerContainer>
         <HeroBannerBottomWrapper>
           <HeroBannerBottomText>
-            Blah blah blah blah blah blah
+          The bank of the progressives.
           </HeroBannerBottomText>
         </HeroBannerBottomWrapper>
         <AuthContainer></AuthContainer>

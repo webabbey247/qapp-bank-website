@@ -92,7 +92,7 @@ export const ServicesDescText = styled.p`
   color: var(--text-color-2);
   margin-bottom: 1rem;
   max-width: 230px;
-  height: 80px;
+  height: 100px;
   font-family: var(--font-manrope);
 `;
 

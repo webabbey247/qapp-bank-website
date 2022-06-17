@@ -38,8 +38,7 @@ const Services = () => {
               <ServicesDesc>
                 <ServicesDescHeading>Open an Account</ServicesDescHeading>
                 <ServicesDescText>
-                  Need an account? Open an account for your business, your child
-                  or yourself.
+                Do you need an account? Open an account for yourself, your children or your businesses at no cost.
                 </ServicesDescText>
                 <ServicesDescCta>
                   Click here to start <FaChevronRight />
@@ -54,7 +53,7 @@ const Services = () => {
               <ServicesDesc>
                 <ServicesDescHeading>Quick Loan</ServicesDescHeading>
                 <ServicesDescText>
-                  Free is the new cool. Zero transfer fees. Zero SMS charge.
+                Get up to N10 million in credit and pay back in 3-12 months and at 3% monthly interest rate. No hidden fees.
                 </ServicesDescText>
                 <ServicesDescCta>
                   Click here to start <FaChevronRight />
@@ -69,8 +68,7 @@ const Services = () => {
               <ServicesDesc>
                 <ServicesDescHeading>Utility Payment</ServicesDescHeading>
                 <ServicesDescText>
-                  Want a snap action? Get a QAPP mobile app for the fastest and
-                  most.
+                Don’t miss out on your favorite show. Pay your utility bill on the go and continue to enjoy your program.
                 </ServicesDescText>
                 <ServicesDescCta>
                   Click here to start <FaChevronRight />
@@ -85,8 +83,7 @@ const Services = () => {
               <ServicesDesc>
                 <ServicesDescHeading>Airtime Top-Up</ServicesDescHeading>
                 <ServicesDescText>
-                  Skip the queues and get all the answers you need right from
-                  your phone.
+                Your go to place for instant Top-up.
                 </ServicesDescText>
                 <ServicesDescCta>
                   Click here to start <FaChevronRight />
